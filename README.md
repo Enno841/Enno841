@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Enno
 - 👀 I’m interested in Dark Fantasy
 - 🌱 I’m currently learning Laravel, Flutter, Blockchain
-- 💞️ I’m looking to collaborate on improving oneself
+- 💞️ I’m looking to change
 - 📫 How to reach me: ejcalingasan03118@usep.edu.ph
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: Named after my grandfather and his grandfather.
 
 <!---
